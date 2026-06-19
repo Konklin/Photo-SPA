@@ -1,6 +1,6 @@
-name = "Colin"
-age = 23
-is_learning = True
+name = "Konklin"
+age = 32
+is_learning = False
 
 print(name)
 print(age)
