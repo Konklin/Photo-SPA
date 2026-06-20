@@ -1,6 +1,6 @@
 let name = "Konklin";
 let age = "32";
-let isLearning = False;
+let isLearning = true;
 
 console.log(name);
 console.log(age);
